@@ -1,10 +1,10 @@
 {
     "windows": {
-      "version": "0.0.4",
-      "buildTime": "2026/05/10 15:20:00"
+      "version": "0.0.10",
+      "buildTime": "2026/06/07 15:20:00"
     },
     "macos": {
       "version": "0.0.4",
-      "buildTime": "2026/05/10 15:20:00"
+      "buildTime": "2026/06/07 15:20:00"
     }
 }
